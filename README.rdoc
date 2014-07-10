@@ -6,7 +6,7 @@ This is my preferred flavor.
 
 Using: Rspec, PostgreSQL, Twitter Bootstrap 3 RC1, and HAML. 
 
-No Turbolinks. No Coffeescript.
+No Turbolinks. No CoffeeScript.
 
 
 Rename application with [Rename tool](https://github.com/morshedalam/rename).
