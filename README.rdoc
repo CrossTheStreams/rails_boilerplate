@@ -1,5 +1,6 @@
+=====================
 Rails 4.1 Boilerplate
-=============
+
 
 This is my preferred flavor. 
 
